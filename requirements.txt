@@ -5,7 +5,7 @@ Unidecode==1.2.0
 matplotlib==3.3.4
 colorama==0.4.4
 six==1.15.0
-numpy==1.19.2
+numpy==1.22.0
 cx_Oracle==8.3.0
 mysql_connector_repackaged==0.3.1
 pyodbc==4.0.32
